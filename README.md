@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate software teste.</h3>
+<h3 align="center">A passionate software tester.</h3>
 
 - 🌱 I’m currently learning **API & UI Automation testing**
 
